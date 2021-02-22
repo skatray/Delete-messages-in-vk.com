@@ -54,7 +54,7 @@ function lang(){
 }
 
 function ifDeleteAllMessage(){
-	let chetbox = document.querySelector("#box_layer > div.popup_box_container > div > div.box_controls_wrap > div.box_controls > div.box_controls_text._box_controls_text > div")
+	let chetbox = document.querySelector("#box_layer div.checkbox") || document.querySelector("#box_layer > div.popup_box_container > div > div.box_controls_wrap > div.box_controls > div.box_controls_text._box_controls_text > div")
 	if(chetbox){
 		chetbox.click()
 		return true;
