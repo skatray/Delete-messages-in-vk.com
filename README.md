@@ -4,4 +4,4 @@ This script allows you to delete your messages from the VKontakte social network
 1.  Open https://web.telegram.org/#/im
 2.  Press F12 (Crtl+Shift+C for Opera) and Search tab Console.
 3.  Insert Script and press Enter.
-4.  Wait for messages to be deleted.
+4.  Wait new window with resault.
